@@ -10,48 +10,56 @@ socialimg: /img/leaves.webp
 
 I've visited all manner of countries, here is a complete list:
 
-> Albania 🇦🇱
+{{<rawhtml>}}
 
-> Austria 🇦🇹
+<iframe src="https://bokenmap.com/neoski/map/embed" height="250" width="100%" title="Location Map" style="aspect-ratio: 16/9;" />
 
-> Belgium 🇧🇪
+{{</rawhtml>}}
 
-> Belize 🇧🇿
+> 🇦🇱 Albania
 
-> Bosnia and Herzegovina 🇧🇦
+> 🇦🇹 Austria
 
-> Canada 🇨🇦
+> 🇧🇪 Belgium
 
-> Croatia 🇭🇷
+> 🇧🇿 Belize
 
-> England 🏴󠁧󠁢󠁥󠁮󠁧󠁿
+> 🇧🇦 Bosnia and Herzegovina
 
-> France 🇫🇷
+> 🇨🇦 Canada
 
-> Germany 🇩🇪
+> 🇭🇷 Croatia
 
-> Guatemala 🇬🇹
+> 🏴󠁧󠁢󠁥󠁮󠁧󠁿 England
 
-> Ireland 🇮🇪
+> 🇫🇷 France
 
-> Italy 🇮🇹
+> 🇩🇪 Germany
 
-> Malta 🇲🇹
+> 🇬🇹 Guatemala
 
-> Mexico 🇲🇽
+> 🇮🇪 Ireland
 
-> Panama 🇵🇦
+> 🇮🇹 Italy
 
-> Poland 🇵🇱
+> 🇲🇹 Malta
 
-> Scotland 🏴󠁧󠁢󠁳󠁣󠁴󠁿
+> 🇲🇽 Mexico
 
-> Spain 🇪🇸
+> 🇵🇦 Panama
 
-> Sri Lanka 🇱🇰
+> 🇵🇱 Poland
 
-> United States of America 🇺🇸
+> 🏴󠁧󠁢󠁳󠁣󠁴󠁿 Scotland
 
-> Vatican City 🇻🇦
+> 🇪🇸 Spain
 
-> Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿
+> 🇱🇰 Sri Lanka
+
+> 🇨🇭 Switzerland
+
+> 🇺🇸 United States of America
+
+> 🇻🇦 Vatican City
+
+> 🏴󠁧󠁢󠁷󠁬󠁳󠁿 Wales
