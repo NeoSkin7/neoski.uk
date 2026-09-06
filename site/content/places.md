@@ -10,9 +10,7 @@ socialimg: /img/leaves.webp
 
 I've visited all manner of countries, here is a complete list:
 
-{{</* rawhtml */>}}
-<iframe src="https://bokenmap.com/neoski/map/embed" width="100%" title="Location Map" style="aspect-ratio: 16/9;" />
-{{</* /rawhtml */>}}
+<iframe src="https://bokenmap.com/neoski/map/embed" width="100%" title="Location Map" style="aspect-ratio: 16/9;"></iframe>
 
 > 🇦🇱 Albania
 
