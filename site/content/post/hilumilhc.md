@@ -1,9 +1,9 @@
 ---
 title: "What's Next For the LHC?"
 date: 2026-08-13T08:00:00.000Z
-draft: "true"
-description: VIDEO TRANSCRIPT -
-summary: VIDEO TRANSCRIPT -
+draft: "false"
+description: VIDEO TRANSCRIPT - What is the HiLumiLHC Project and why is it needed?
+summary: VIDEO TRANSCRIPT - What is the HiLumiLHC Project and why is it needed?
 image: /img/post/hilumilhc/thumb.png
 socialimg: /img/post/hilumilhc/thumb.png
 tags: ["Physics", "CERN"]
@@ -12,15 +12,19 @@ group: ["Transcript"]
 
 You can view the video here: [What's Next For the LHC?](https://vid.neoski.uk/inst/hilumilhc)
 
-On the 29th of June, the Large Hadron Collider, part of the CERN facility behind me, shut down. Don’t worry nothing went wrong! In fact, the shutdown marks the beginning of an exciting new chapter for the accelerator.
+On the 29th of June, the Large Hadron Collider, part of the CERN facility behind me, shut down. Don’t worry, nothing went wrong! In fact, the shutdown marks the beginning of an exciting new chapter for the accelerator.
+
+![CERN Science Discovery Centre and Main Entrance](/img/post/hilumilhc/cern.png "The CERN Complex")
 
 Over the next four years, the project will be upgraded, refitted, and refurbished to extend its capabilities far beyond its current reach - in an effort called the high-luminosity upgrade. It’s already affectionately been nicknamed HiLumiLHC.
 
-The first thing to understand about the upgrade is why it’s necessary. The glossy cover story for this project hit the press in 2012 with the discovery of the Higgs boson, but that’s not where the story ends. The collider has produced over 600 petabytes of data since its start in 2010 - that’s equivalent to 20 000 years of 24/7 HD video recording, a staggering amount of data. And from that, over 35 000 articles have been published with new discoveries, techniques, and results.
+The first thing to understand about this upgrade is why it’s necessary. The glossy cover story for this project hit the press in 2012 with the discovery of the Higgs boson, but that’s not where the story ends. The collider has produced over 600 petabytes of data since its start in 2010 - that’s equivalent to 20 000 years of 24/7 HD video recording, a staggering amount of data. And from that, over 35 000 articles have been published with new discoveries, techniques, and results.
 
-Every week, new discoveries are found in the extensive data sets - covering everything from the behaviour of the Higgs boson to evidence of quantum entanglement, and even entirely new particles!
+Every week, new discoveries are found in this extensive data set - covering everything from the behaviour of the Higgs boson to evidence of quantum entanglement, and even entirely new particles!
 
 So, if the Large Hadron Collider is still producing useful data, why upgrade it? Well, in short: they think they can do better.
+
+![The ATLAS Project Control Room](/img/post/lhc-exp/linac4.png "The ATLAS Control Room, Now Very Empty...")
 
 As the largest collider of its type, the accelerator is an extremely important asset and it would be very difficult to get funding to build another. However, since its design, physics has advanced and there are now lots of new analysis and engineering techniques available that were simply not previously considered. The answer to this problem is to upgrade the current collider, adding the required equipment and improving the infrastructure to make the collider fit for the 2030s.
 
@@ -28,7 +32,7 @@ The upgrade promises to greatly improve the performance of the accelerator - inc
 
 Essentially, the upgrade means that the Large Hadron Collider will be able to collect more data per second than ever before, which is really important as it allows scientists to investigate events which have a very low probability of occurring - having more collisions means that we observe more unlikely things, in turn allowing for more exciting discoveries.
 
-The works are due to be completed in early 2030, with operation resuming for the fourth run in June 2030. I’ll be following its progress so make sure to follow me to stay up-to-date!
+The works are due to be completed in early 2030, with operation returning for the fourth run in June 2030. I’ll be following its progress so make sure to follow me to stay up-to-date!
 
 ---
 
@@ -43,3 +47,5 @@ The works are due to be completed in early 2030, with operation resuming for the
 - LHCb Collaboration (2026). LHCb releases service to access Run II data. _CERN Open Data Portal_. [online] 22 Feb. Available at: [opendata.cern.ch/docs/lhcb-releases-service-to-access-run2-data](https://opendata.cern.ch/docs/lhcb-releases-service-to-access-run2-data) [Accessed 19 Aug. 2026].
 
 Image Credit:
+
+All images by Neo Skinner
