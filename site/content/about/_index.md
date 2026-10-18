@@ -13,10 +13,10 @@ articles:
   - title: "Artemis II: What Comes Next?"
     path: artemis2next
 videos:
+  - title: "What's Next For the LHC?"
+    path: hilumilhc
   - title: "The World's Largest Physics Experiment"
     path: lhc-exp
   - title: "The Sun, The Moon... and a Colander?"
     path: eclipse26
-  - title: "Chernobyl: 40 Years of Learning"
-    path: chernobyl40
 ---

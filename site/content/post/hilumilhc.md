@@ -1,6 +1,6 @@
 ---
 title: "What's Next For the LHC?"
-date: 2026-08-13T08:00:00.000Z
+date: 2026-10-18T08:00:00.000Z
 draft: "false"
 description: VIDEO TRANSCRIPT - What is the HiLumiLHC Project and why is it needed?
 summary: VIDEO TRANSCRIPT - What is the HiLumiLHC Project and why is it needed?
