@@ -14,7 +14,7 @@ You can view the video here: [What's Next For the LHC?](https://vid.neoski.uk/in
 
 On the 29th of June, the Large Hadron Collider, part of the CERN facility behind me, shut down. Don’t worry, nothing went wrong! In fact, the shutdown marks the beginning of an exciting new chapter for the accelerator.
 
-![CERN Science Discovery Centre and Main Entrance](/img/post/hilumilhc/cern.png "The CERN Complex")
+![CERN Science Discovery Centre and Main Entrance](/img/post/hilumilhc/cern.jpg "The CERN Complex")
 
 Over the next four years, the project will be upgraded, refitted, and refurbished to extend its capabilities far beyond its current reach - in an effort called the high-luminosity upgrade. It’s already affectionately been nicknamed HiLumiLHC.
 
@@ -24,7 +24,7 @@ Every week, new discoveries are found in this extensive data set - covering ever
 
 So, if the Large Hadron Collider is still producing useful data, why upgrade it? Well, in short: they think they can do better.
 
-![The ATLAS Project Control Room](/img/post/lhc-exp/linac4.png "The ATLAS Control Room, Now Very Empty...")
+![The ATLAS Project Control Room](/img/post/hilumilhc/atlas-control.jpg "The ATLAS Control Room, Now Very Empty...")
 
 As the largest collider of its type, the accelerator is an extremely important asset and it would be very difficult to get funding to build another. However, since its design, physics has advanced and there are now lots of new analysis and engineering techniques available that were simply not previously considered. The answer to this problem is to upgrade the current collider, adding the required equipment and improving the infrastructure to make the collider fit for the 2030s.
 
