@@ -2,8 +2,8 @@
 % RHUL REPORT PREAMBLE                         %
 % Preamble for RHUL undergraduate reports      %
 % Written by N. L. Skinner                     %
-% This is Version 1.6                          %
-% Updated 21/07/2026                           %
+% This is Version 1.7                          %
+% Updated 24/10/2026                           %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \documentclass[a4paper,twocolumn,twoside]{article}
@@ -13,23 +13,17 @@
 \usepackage[colorlinks=true,linkcolor=blue,urlcolor=blue]{hyperref}
 \usepackage[separate-uncertainty=true]{siunitx}
 \usepackage{physics}
+\usepackage{cite}
+\makeatletter
+\newcommand{\citecomment}[2][]{\citen{#2}#1\citevar}
+\newcommand{\citeone}[1]{\citecomment{#1}}
+\newcommand{\citetwo}[2][]{\citecomment[,~#1]{#2}}
+\newcommand{\citevar}{\@ifnextchar\bgroup{;~\citeone}{\@ifnextchar[{;~\citetwo}{]}}}
+\newcommand{\citefirst}{\@ifnextchar\bgroup{\citeone}{\@ifnextchar[{\citetwo}{]}}}
+\newcommand{\cites}{[\citefirst}
+\makeatother
+\bibliographystyle{vancouver}
 \AtBeginDocument{\RenewCommandCopy\qty\SI}
-\usepackage[giveninits=true,dateabbrev=false,urldate=long,sorting=none,language=british,backend=biber]{biblatex}
-\addbibresource{main.bib} % Expecting main.bib for all references
-\DeclareNameFormat{default}{%
-  \nameparts{#1}%
-  \usebibmacro{name:family-given}
-    {\namepartfamily}
-    {\namepartgiveni}
-    {\namepartprefix}
-    {\namepartsuffix}%
-  \usebibmacro{name:andothers}%
-}
-\renewcommand{\bibinitperiod}{}
-\DeclareFieldFormat{url}{\textsc{url}\intitlepunct\url{#1},}
-\DeclareFieldFormat{urldate}{%
-  retrieved \thefield{urlday}\addspace%
-  \mkbibmonth{\thefield{urlmonth}}\addspace%
-  \thefield{urlyear}\isdot
-}
-\renewbibmacro{in:}{}
+\ExplSyntaxOn
+\msg_redirect_name:nnn{siunitx}{physics-pkg}{none}
+\ExplSyntaxOff
